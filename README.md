@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YousefAlNumani
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL-R
-- 📫 How to reach me 
+- 👀 I’m interested in Data Science & Ai
+- 🌱 I’m currently learning SQL-Python
 
 <!---
 YousefAlNumani/YousefAlNumani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
