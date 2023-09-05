@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YousefAlNumani
+- 👋 Hi, I’m @YousefAlnumani
 - 👀 I’m interested in Data Science & Ai
 - 🌱 I’m currently learning SQL-Python
 
